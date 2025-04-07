@@ -1,0 +1,8 @@
+## Interface: 11506
+## Title: ScriptDevil
+## Notes: Write and run Lua scripts inside WoW Classic
+## Author: d05dev
+## Version: 1.15.6
+## SavedVariables: ScriptDevilDB
+
+ScriptDevil.lua
