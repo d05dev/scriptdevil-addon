@@ -1,3 +1,6 @@
+-- pong-example.lua
+-- Copy this code into the ScriptDevil input and click 'run' to see a working pong example
+
 local gameFrame = CreateFrame("Frame", "PongGame", UIParent)
 gameFrame:SetSize(400, 300)
 gameFrame:SetPoint("CENTER")
