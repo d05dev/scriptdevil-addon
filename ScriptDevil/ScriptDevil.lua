@@ -7,7 +7,10 @@
 -- ░▒▓███████▓▒░ ░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░        ░▒▓█▓▒░  ░▒▓███████▓▒░░▒▓████████▓▒░  ░▒▓██▓▒░  ░▒▓█▓▒░▒▓████████▓▒░ 
 
 -- An addon for writing, testing, and running Lua scripts inside WoW
--- by d05dev (Twitter - @d05dev, Github - https://www.github.com/d05dev)
+
+-- by d05dev 
+-- Twitter - @d05dev
+-- Github - https://www.github.com/d05dev
 
 local addonName, SD = ...
 SD.version = "1.15.6"
