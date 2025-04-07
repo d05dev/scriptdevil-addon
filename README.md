@@ -4,7 +4,7 @@
 
 Edit, save, and run Lua scripts in a clean multi-line editor. Great for debugging and quickly building interfaces at runtime.
 ___
-⚠️ **NOTE:** Only WoW Classic is supported at this time. Feel free to edit the ToC file to run on retail, but may not function properly.
+⚠️ **NOTE:** Only WoW Classic is supported at this time. Feel free to edit the ToC file to run on retail, but it may not function properly.
 ___ 
 
 ### *Installation*
